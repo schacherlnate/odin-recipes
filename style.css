@@ -1,0 +1,21 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: hsl(0, 15%, 42%);
+    font-size: 56px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+li {
+    font-size: 28px;
+}
+
+p {
+    font-size: 28px
+}
